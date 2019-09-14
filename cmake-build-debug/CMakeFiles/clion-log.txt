@@ -1,0 +1,4 @@
+/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/damir/CLionProjects/neuron
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/damir/CLionProjects/neuron/cmake-build-debug
